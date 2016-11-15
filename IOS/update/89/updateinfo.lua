@@ -1,2 +1,2 @@
-local info = {['version']='89', ['zipcount']=1, ['deletelist']={}, ['totalsize']=1879140, ['totalfilecount']=329, ['ziplist']={['1.zip']={['filesize']=1879140, ['filecount']=329,['md5']='5fae2337c07ff4251d987b24a708c0fa'}}}
-local md5 = "4a1e9f7fa777f72eb907e7652d21deda";return info, md5
+local info = {['version']='89', ['zipcount']=1, ['deletelist']={}, ['totalsize']=1879204, ['totalfilecount']=329, ['ziplist']={['1.zip']={['filesize']=1879204, ['filecount']=329,['md5']='8b6a23f1b10d44ef4bd8d0079cc4fbde'}}}
+local md5 = "65daa698078b13344ea349eca89729e4";return info, md5
