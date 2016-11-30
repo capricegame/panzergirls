@@ -1,0 +1,3 @@
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/animation_node/ani_team_bottom.csb
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/ui_material/DFPLiJinHeiW8-GB.TTF
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/battle_prepare.csb

@@ -1,0 +1,13 @@
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/string.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/battle.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/shop.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/battle/skill/KSkillAirSupportLogic.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/battle/KBattleUIHelper.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/ui/login/KUIConfigLoadingNode.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/ui/battle/KUIBattleFailNode.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/ui/office/wedding/KUIWeddingNode.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/ui/office/KUIOfficeMainLayer.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/logic/KEventDispatchCenter.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/logic/KPlayer.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/network/KC2SProtocolManager.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/sharedefine/game_define.lua

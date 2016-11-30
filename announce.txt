@@ -1,5 +1,2 @@
-Test Annouce Title
-1. Test Annouce 1
-2. Test Annouce 2
-3. Test Annouce 三
+欢迎来到装甲战姬！
 
