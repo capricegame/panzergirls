@@ -1,0 +1,4 @@
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/announce.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/iteminfo.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/medal.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/medalRequire.lua
