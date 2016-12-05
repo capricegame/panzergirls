@@ -1,0 +1,2 @@
+A       /Users/hanruofei/Documents/PanzerGirls/ArtResource/images/item/medal_power_failure/1.png
+A       /Users/hanruofei/Documents/PanzerGirls/ArtResource/images/item/medal_power_failure
