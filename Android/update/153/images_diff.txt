@@ -1,0 +1,6 @@
+A       /Users/hanruofei/Documents/PanzerGirls/ArtResource/images/cards/A10/弰峲愴幵_Mkii_儀乕僗_拝怓_0428.png
+A       /Users/hanruofei/Documents/PanzerGirls/ArtResource/images/cards/A10/弰峲愴幵_Mkii_戝攋_拝怓_0430.png
+A       /Users/hanruofei/Documents/PanzerGirls/ArtResource/images/cards/A10
+A       /Users/hanruofei/Documents/PanzerGirls/ArtResource/images/cards/T62/T62.png
+A       /Users/hanruofei/Documents/PanzerGirls/ArtResource/images/cards/T62/T62破.png
+A       /Users/hanruofei/Documents/PanzerGirls/ArtResource/images/cards/T62

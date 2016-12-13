@@ -1,0 +1,15 @@
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/announce.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/battle.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/cardinfo.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/food.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/furniture.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/shop.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/skin.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/string.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/monster.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/reward.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/battle/KBattleUIHelper.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/battle/skill/KSkillAirSupportLogic.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/logic/KShop.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/ui/battle/KUIBattleReportNode.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/ui/office/launch/KUILaunchMapsNode.lua

@@ -1,0 +1,16 @@
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/ui_material/victory_clearance/new_year_base_1.png
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/ui_material/victory_clearance/christmas_base_2.png
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/ui_material/victory_clearance/christmas_base_1.png
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/ui_material/victory_clearance/christmas_base_3.png
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/ui_material/DFPLiJinHeiW8-GB.TTF
+A       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/ui_material/launch_maps/christmas_1.png
+A       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/ui_material/launch_maps/christmas_2.png
+A       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/ui_material/launch_maps/christmas_3.png
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/ui_material/launch_maps/cj_map_christmas.png
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/ui_material/launch_maps/cj_map_christmas_active.png
+A       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/ui_material/launch_maps/medal_tf_1.png
+A       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/ui_material/launch_maps/medal_tf_2.png
+A       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/ui_material/launch_maps/medal_tf_3.png
+A       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/ui_material/launch_maps/tf_base.png
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/animation_node/ani_launch_maps_bottom_v2.csb
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/layout_launch_maps_v2.csb
