@@ -1,0 +1,3 @@
+M       /Users/sunxun/Documents/Project/PanzerGirls/SHClient/src/logic/KPlayer.lua
+M       /Users/sunxun/Documents/Project/PanzerGirls/SHClient/src/ui/office/factory/KUIFactoryDevelopNode.lua
+M       /Users/sunxun/Documents/Project/PanzerGirls/SHClient/src/settings/reward.lua

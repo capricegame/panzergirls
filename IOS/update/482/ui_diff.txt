@@ -1,0 +1,2 @@
+M       /Users/sunxun/Documents/Project/PanzerGirls/ArtResource/ui/animation_node/ani_award_gear.csb
+M       /Users/sunxun/Documents/Project/PanzerGirls/ArtResource/ui/animation_node/ani_mission_award_v3.csb
