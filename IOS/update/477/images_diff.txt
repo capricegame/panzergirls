@@ -1,0 +1,11 @@
+A       /Users/sunxun/Documents/Project/PanzerGirls/ArtResource/images/cards/type/type-10.png
+A       /Users/sunxun/Documents/Project/PanzerGirls/ArtResource/images/cards/type/type-9.png
+A       /Users/sunxun/Documents/Project/PanzerGirls/ArtResource/images/cards/type/word-10.png
+A       /Users/sunxun/Documents/Project/PanzerGirls/ArtResource/images/cards/type/word-9.png
+A       /Users/sunxun/Documents/Project/PanzerGirls/ArtResource/images/cards/type/type-8.png
+A       /Users/sunxun/Documents/Project/PanzerGirls/ArtResource/images/cards/type/word-8.png
+M       /Users/sunxun/Documents/Project/PanzerGirls/ArtResource/images/cards/Jagdpanther/DamagedImage.png
+M       /Users/sunxun/Documents/Project/PanzerGirls/ArtResource/images/cards/Jagdpanther/NormalImage.png
+A       /Users/sunxun/Documents/Project/PanzerGirls/ArtResource/images/item/gustaf/1.png
+A       /Users/sunxun/Documents/Project/PanzerGirls/ArtResource/images/item/gustaf
+M       /Users/sunxun/Documents/Project/PanzerGirls/ArtResource/images/item/cloth/Jagdpanther.png
