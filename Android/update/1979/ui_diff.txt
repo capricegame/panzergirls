@@ -1,0 +1,7 @@
+M       /Users/hanruofei/Documents/PanzerGirls2/ArtResource/ui/animation_node/ani_strengthen_levelup.csb
+M       /Users/hanruofei/Documents/PanzerGirls2/ArtResource/ui/animation_node/ani_strengthen_right.csb
+A       /Users/hanruofei/Documents/PanzerGirls2/ArtResource/ui/ui_material/strengthen/icon_1.png
+A       /Users/hanruofei/Documents/PanzerGirls2/ArtResource/ui/ui_material/strengthen/icon_2.png
+M       /Users/hanruofei/Documents/PanzerGirls2/ArtResource/ui/ui_material/strengthen/qh_data.png
+M       /Users/hanruofei/Documents/PanzerGirls2/ArtResource/ui/ui_material/strengthen/qh_upgrade_bar.png
+A       /Users/hanruofei/Documents/PanzerGirls2/ArtResource/ui/ui_material/strengthen/qh_upgrade_frame1.png

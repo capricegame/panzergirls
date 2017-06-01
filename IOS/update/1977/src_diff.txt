@@ -1,0 +1,14 @@
+M       /Users/hanruofei/Documents/PanzerGirls2/SHClient/src/ui/office/expedition/KUIExpeditionChooseTeamNode.lua
+M       /Users/hanruofei/Documents/PanzerGirls2/SHClient/src/ui/office/expedition/KUIPassMapRewardNode.lua
+M       /Users/hanruofei/Documents/PanzerGirls2/SHClient/src/ui/office/expedition/KUIPassMapSpecialRewardNode.lua
+M       /Users/hanruofei/Documents/PanzerGirls2/SHClient/src/ui/office/exercise/KUIExerciseRoleDetailNode.lua
+M       /Users/hanruofei/Documents/PanzerGirls2/SHClient/src/ui/office/shop/KUIShopNode.lua
+M       /Users/hanruofei/Documents/PanzerGirls2/SHClient/src/ui/office/collection/KUICollectionNode.lua
+M       /Users/hanruofei/Documents/PanzerGirls2/SHClient/src/ui/office/team/KUITeamCharacterNode.lua
+M       /Users/hanruofei/Documents/PanzerGirls2/SHClient/src/settings/language1.lua
+M       /Users/hanruofei/Documents/PanzerGirls2/SHClient/src/settings/language2.lua
+M       /Users/hanruofei/Documents/PanzerGirls2/SHClient/src/settings/language7.lua
+M       /Users/hanruofei/Documents/PanzerGirls2/SHClient/src/settings/language8.lua
+M       /Users/hanruofei/Documents/PanzerGirls2/SHClient/src/settings/language9.lua
+M       /Users/hanruofei/Documents/PanzerGirls2/SHClient/src/settings/raiders.lua
+M       /Users/hanruofei/Documents/PanzerGirls2/SHClient/src/settings/language28.lua
