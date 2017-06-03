@@ -1,0 +1,12 @@
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/ui/office/factory/KUIFactoryChooseCardNode.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/ui/office/shop/KUIShopNode.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/ui/office/mail/KUIMailNode.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/ui/office/KUIOfficeMainLayer.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/base/KLanguageTranslator.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/base/KUtil.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/battle.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/monster.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/monstergroup.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/language1.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/language2.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/logic/KShop.lua
