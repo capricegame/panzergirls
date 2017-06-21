@@ -1,0 +1,2 @@
+local info = {['version']='2658', ['zipcount']=1, ['deletelist']={"src/settings/announce.luac","rce/images/cards/DamagedImage.png","rce/images/cards/Normalhead.png","rce/images/cards/NormalImage.png"}, ['totalsize']=39923737, ['totalfilecount']=1176, ['ziplist']={['1.zip']={['filesize']=39923737, ['filecount']=1176,['md5']='121baa53e8673e0854857759de34a4c2'}}}
+local md5 = "501b53f783e209ca60defd0c4e47eaf9";return info, md5
