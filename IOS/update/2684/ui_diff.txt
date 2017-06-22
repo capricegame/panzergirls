@@ -1,0 +1,3 @@
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/layout_modify_name.csb
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/layout_create_character.csb
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/animation_node/ani_factory_button_left.csb
