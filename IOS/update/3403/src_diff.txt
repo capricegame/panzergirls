@@ -1,0 +1,12 @@
+M       D:\CapriceGame\PanzerGirls\SHClient\src\settings\shop.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\settings\battle.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\settings\language.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\settings\reward.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\settings\monster.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\settings\iteminfo.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\settings\medalRequire.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\settings\medal.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\settings\language32.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\settings\language33.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\settings\language37.lua
+A       D:\CapriceGame\PanzerGirls\SHClient\src\settings\language38.lua

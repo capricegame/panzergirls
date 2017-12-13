@@ -1,0 +1,13 @@
+M       D:\CapriceGame\PanzerGirls\ArtResource\images\cards_thumbnail\cards_normal\tiger-P.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\images\cards_thumbnail\cards_damaged\tiger-P.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\images\cards\tiger-P\DamagedImage_light.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\images\cards\tiger-P\NormalImage_light.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\images\cards\tiger-P\Damagedhead.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\images\cards\tiger-P\DamagedImage.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\images\cards\tiger-P\Normalhead.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\images\cards\tiger-P\NormalImage.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\images\item\cloth\tiger-P.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\images\item\medal_xl_1\1.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\images\item\medal_xl_2\2.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\images\item\medal_xl_3\3.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\images\item\medal_xl_4\4.png

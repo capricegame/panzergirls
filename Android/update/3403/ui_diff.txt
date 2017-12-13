@@ -1,0 +1,13 @@
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\animation_node\ani_compass_girl.csb
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\animation_node\ani_strengthen_card_effert.csb
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\animation_node\ani_build_top.csb
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\layout_shop_furniture_mycard.csb
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\ui_material\fnt\xl_victory.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\ui_material\fnt\xl_victory.fnt
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\ui_material\fnt\AllTitlesFnt.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\ui_material\fnt\AllTitlesFnt.fnt
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\ui_material\fnt\xl.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\ui_material\fnt\xl.fnt
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\ui_material\update\NormalImage_8.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\battle_prepare.csb
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\layout_launch_maps_v6.csb
