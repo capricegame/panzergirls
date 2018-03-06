@@ -1,0 +1,4 @@
+M       D:\CapriceGame\PanzerGirls\ArtResource\images\item\medal_white_scheme_1\1.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\images\item\medal_white_scheme_2\1.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\images\item\medal_white_scheme_3\1.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\images\item\medal_white_scheme_4\1.png

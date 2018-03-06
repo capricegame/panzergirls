@@ -1,0 +1,13 @@
+A       D:\CapriceGame\PanzerGirls\ArtResource\ui\animation_node\ani_launch_maps_bottom_v8.csb
+A       D:\CapriceGame\PanzerGirls\ArtResource\ui\animation_node\ani_victory_clearance_v10.csb
+A       D:\CapriceGame\PanzerGirls\ArtResource\ui\ui_material\fnt\white_scheme.png
+A       D:\CapriceGame\PanzerGirls\ArtResource\ui\ui_material\fnt\white_scheme.fnt
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\ui_material\victory_clearance\white_scheme_1.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\ui_material\victory_clearance\white_scheme_2.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\ui_material\victory_clearance\white_scheme_3.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\ui_material\launch_maps\white_scheme_1.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\ui_material\launch_maps\white_scheme_3.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\ui_material\launch_maps\white_scheme_2.png
+A       D:\CapriceGame\PanzerGirls\ArtResource\ui\ui_material\update\NormalImage_9.png
+A       D:\CapriceGame\PanzerGirls\ArtResource\ui\layout_difficulty_selection_v10.csb
+A       D:\CapriceGame\PanzerGirls\ArtResource\ui\layout_launch_maps_v8.csb
