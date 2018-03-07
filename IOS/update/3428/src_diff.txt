@@ -1,0 +1,4 @@
+M       D:\CapriceGame\PanzerGirls\SHClient\src\settings\reward.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\ui\office\expedition\KUIPassMapSpecialRewardNode.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\ui\office\launch\KUISelectionDifficultyNode.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\ui\office\launch\KUILaunchMapsNode.lua
