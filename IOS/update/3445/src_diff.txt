@@ -1,0 +1,11 @@
+M       D:\CapriceGame\PanzerGirls\SHClient\src\settings\shop.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\settings\battle.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\settings\monster.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\settings\language2.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\settings\language3.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\settings\iteminfo.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\settings\language38.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\ui\battle\KUIBattleReportNode.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\ui\office\expedition\KUIPassMapSpecialRewardNode.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\ui\office\launch\KUISelectionDifficultyNode.lua
+M       D:\CapriceGame\PanzerGirls\SHClient\src\ui\office\launch\KUILaunchMapsNode.lua
