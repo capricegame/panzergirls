@@ -1,0 +1,2 @@
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\layout_difficulty_selection_v9.csb
+M       D:\CapriceGame\PanzerGirls\ArtResource\ui\layout_launch_maps_v7.csb

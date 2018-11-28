@@ -1,0 +1,2 @@
+M       D:\CapriceGame\PanzerGirls\ArtResource\images\cards\VK2001\DamagedImage.png
+M       D:\CapriceGame\PanzerGirls\ArtResource\images\cards\VK2001\NormalImage.png
